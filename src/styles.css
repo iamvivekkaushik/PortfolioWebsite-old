@@ -1,0 +1,53 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #F2F4F8;
+  font-family: 'Lato', sans-serif;
+  overflow-x: hidden;
+}
+
+.color-background {
+  color: #F2F4F8;
+}
+
+.color-rock-blue {
+  color: #949CC2;
+}
+
+.color-humming-bird {
+  color: #D0EFE3;
+}
+
+.color-dark-pink {
+  color: #F05D7A;
+}
+
+.color-prussian-blue {
+  color: #001A47;
+}
+
+.color-midnight-blue {
+  color: #2D258D;
+}
+
+.color-sapphire {
+  color: #140B6E;
+}
+
+.color-coral-tree {
+  color: #B47069;
+}
+
+.color-pink-swan {
+  color: #BCAFB6;
+}
+
+.color-woody-brown {
+  color: #594848;
+}
+
+.color-black-russian {
+  color: #0F0E12;
+}
