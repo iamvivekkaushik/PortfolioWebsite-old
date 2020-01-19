@@ -21,7 +21,8 @@
             "aot": false,
             "assets": [
               "src/assets",
-              "src/static"
+              "src/static",
+              "src/app-ads.txt"
             ],
             "styles": [
               "src/styles.css"
