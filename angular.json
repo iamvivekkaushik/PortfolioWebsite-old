@@ -22,7 +22,8 @@
             "assets": [
               "src/assets",
               "src/static",
-              "src/app-ads.txt"
+              "src/app-ads.txt",
+              "src/ads.txt"
             ],
             "styles": [
               "src/styles.css"
