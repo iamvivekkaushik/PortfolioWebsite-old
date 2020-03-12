@@ -237,6 +237,7 @@ nav {
 .about-paragraph {
   letter-spacing: 0.09em;
   font-family: 'Nunito', sans-serif;
+  text-align: justify;
 }
 
 /*------- Section 3 ------*/
