@@ -23,7 +23,8 @@
               "src/assets",
               "src/static",
               "src/app-ads.txt",
-              "src/ads.txt"
+              "src/ads.txt",
+              "src/_redirects"
             ],
             "styles": [
               "src/styles.css"
