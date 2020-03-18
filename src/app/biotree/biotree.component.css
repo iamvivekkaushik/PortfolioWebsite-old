@@ -1,0 +1,179 @@
+a {
+  text-decoration: none;
+}
+
+.btn-icon i {
+  text-align: center;
+  font-size: 22px;
+  width: 26px;
+  line-height: 24px;
+  padding-top: 1px;
+}
+
+.btn-icon {
+  padding: 10px;
+  margin: 10px;
+}
+
+.btn-icon img {
+  width: 2em;
+  height: 2em;
+}
+
+.btn-icon:hover {
+  transition: 0.3s all ease-in-out;
+  transform: scale(0.8);
+}
+
+.btn-icon:focus {
+  transition: 0.3s ease-in-out;
+  transform: scale(0.8);
+}
+
+.icon-row {
+  justify-content: center;
+}
+
+.footer {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.credits {
+  font-size: 14px;
+  padding: 10px;
+  display: block;
+  margin-top: 1rem;
+}
+
+.credits span {
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:focus {
+  text-decoration: none;
+}
+
+body {
+  background: #e3eef1;
+  text-align: center;
+  margin-top: 5rem;
+}
+
+.container .row .link_list a {
+  text-align: start;
+}
+
+.container .row .link_list h6 {
+  margin: 1em 0;
+}
+
+.fab {
+  color: black;
+}
+
+.img-profile {
+  text-align: center;
+}
+
+.img-profile img {
+  margin-top: 30px;
+  width: 12em;
+  height: 12em;
+  margin-bottom: 2rem;
+  border-radius: 100px;
+  transition: 0.3s ease-in-out;
+  box-shadow: 0 8px 20px #ddd;
+}
+
+.img-profile img:hover {
+  transform: scale(0.9);
+  transition: 0.3s ease-in-out;
+}
+
+.img-profile img:focus {
+  transform: scale(0.9);
+  transition: 0.3s ease-in-out;
+}
+
+.header {
+  margin: 0 auto;
+}
+
+.header h1 {
+  color: #403a36;
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.header h2 {
+  font-size: 14px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.profile-info {
+  text-align: center;
+}
+
+.card-subtitle {
+  color: #2c3e5e;
+  padding-bottom: 2px;
+  font-size: 16px;
+}
+
+.card-text {
+  color: #909aab;
+  font-size: 14px;
+  padding-top: 5px;
+}
+
+.main-link {
+  padding: 20px 20px;
+  box-shadow: 0 8px 20px #ddd;
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
+  list-style-type: none;
+  transition: 0.3s ease-in-out;
+  background: white;
+}
+
+.main-link:focus {
+  transform: scale(0.9);
+  transition: 0.3s ease-in-out;
+}
+
+.main-link:hover {
+  transition: 0.3s ease-in-out;
+  transform: scale(0.9);
+}
+
+.link_list {
+  text-align: center;
+  max-width: 90%;
+  margin-bottom: 10rem;
+}
+
+.footer {
+  background: #e3eef1;
+  padding-top: 1rem;
+}
+
+@media (max-width: 769px) {
+  body {
+    margin-top: 2rem;
+  }
+
+  .link_list {
+    margin-top: 4rem;
+  }
+
+  .img-profile {
+    margin-bottom: 1rem;
+  }
+
+}
