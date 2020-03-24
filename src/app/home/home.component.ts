@@ -29,15 +29,22 @@ export class HomeComponent implements OnInit {
         'on github.', demo: 'https://pub.dev/packages/awesome_card', source: 'https://github.com/iamvivekkaushik/AwesomeCard'
     },
     {
-      name: 'Baby Saffron', image: 'assets/projects/baby_saffron.png', desc: 'This is an e-commerce website created using TypeScript and ' +
-        'angular framework. This project was create while I was working in the company. Demo version is hosted on the company\'s domain' +
-        ' in case there is an issue with the demo link, let me know.', demo: 'https://babysaffron.civilmachines.com', source: ''
+      name: 'OTP Text Field', image: 'assets/projects/otp_text.png', desc: 'This is another flutter library I made for an app' +
+        ' I was working on. This is a Text Field Widget for entering OTP. Developer can customize multiple fields of the OTP Text Field, ' +
+        'like change number of text fields, change width of the text field and align text fields as he/she prefers. Source code is ' +
+        'available on my Github.', demo: 'https://pub.dev/packages/otp_text_field',
+      source: 'https://github.com/iamvivekkaushik/OTPTextField'
     },
     {
       name: 'Resumify', image: 'assets/projects/resumify.png', desc: 'This is a native Android app created using Java. This app can ' +
         'generate resume with pre-built templates. User can select a template into the app fill up the information that they want on ' +
         'their resume and the app will generate and save it as a pdf file.',
       demo: 'https://play.google.com/store/apps/details?id=com.vivekkaushik.resumify&hl=en', source: ''
+    },
+    {
+      name: 'DR Forensic Services', image: 'assets/projects/drforensic.png', desc: 'This project I did for a client. I made this ' +
+        'static website using TypeScript with Angular Framework. There are some Rotate animation, typewriter animation and some carousels.',
+      demo: 'https://drforensicservices.com.com', source: ''
     },
   ];
 
