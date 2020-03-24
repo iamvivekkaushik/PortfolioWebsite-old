@@ -44,7 +44,7 @@ export class HomeComponent implements OnInit {
     {
       name: 'DR Forensic Services', image: 'assets/projects/drforensic.png', desc: 'This project I did for a client. I made this ' +
         'static website using TypeScript with Angular Framework. There are some Rotate animation, typewriter animation and some carousels.',
-      demo: 'https://drforensicservices.com.com', source: ''
+      demo: 'https://drforensicservices.com', source: ''
     },
   ];
 
