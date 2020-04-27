@@ -8,6 +8,7 @@ import {BiotreeLink} from '../models/biotree-link';
 })
 export class BiotreeComponent implements OnInit {
   biotreeLinks: BiotreeLink[] = [
+    {name: 'Biotree', desc: 'A product to create and share links of your projects just like this one.', link: 'https://biotree.netlify.app/'},
     {name: 'OTP Text Field', desc: 'A flutter package for the OTP Field widget.', link: 'https://github.com/iamvivekkaushik/OTPTextField'},
     {name: 'Android Emulator Skin', desc: 'Skins for Android Emulator.', link: 'https://github.com/iamvivekkaushik/AndroidEmulatorSkin'},
     {name: 'Portfolio Website Code', desc: 'Source Code for my Portfolio Website.', link: 'https://github.com/iamvivekkaushik/PortfolioWebsite'},
