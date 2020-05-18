@@ -46,6 +46,12 @@ export class HomeComponent implements OnInit {
         'static website using TypeScript with Angular Framework. There are some Rotate animation, typewriter animation and some carousels.',
       demo: 'https://drforensicservices.com', source: ''
     },
+    {
+      name: 'Biotree', image: 'assets/projects/biotree.png', desc: 'I along with a friend created this project to manage links for our ' +
+      'project. Instagram only a allow a single website in the bio, this allow us to add multiple links. This project was developed ' +
+        'using Vue and Django.',
+      demo: 'https://biotree.netlify.app', source: ''
+    },
   ];
 
   showScrollButton = false;
